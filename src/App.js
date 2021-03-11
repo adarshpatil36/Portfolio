@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import './App.css';
 
+
 var i = 0;
 var txt = ['practicing minimalist.','lifelong learner.', 'building something Super.', 'sharing my thoughts.'];
 var nextStatement=0;
