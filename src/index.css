@@ -1,0 +1,32 @@
+body{
+  color: whitesmoke;
+  background-color: black;
+  font-family: "space-mono",monospace;
+}
+.main-content{
+  margin-top: 60%;
+  /* position: absolute;
+  bottom: 15%; */
+  /* display: flex; */
+  /* align-items: center; */
+  font-size: xx-large;
+  padding: 0px 0px 0px 30px;
+}
+.demo{
+  /* color: #8F9BA8 !important; */
+}
+#root{
+  width: 75%;
+  margin: auto;
+}
+table, td{
+  border: 2px solid #8F9BA8;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20%;
+  border-spacing: 20px;
+}
+td{
+  padding: 5%;
+  font-size: larger;
+}
